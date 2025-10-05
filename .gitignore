@@ -1,0 +1,8 @@
+# Ignore target folder in root
+/target
+
+# Ignore node_modules inside node_script
+/node_script/node_modules/
+
+# Ignore package-lock.json inside node_script
+/node_script/package-lock.json
